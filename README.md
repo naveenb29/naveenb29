@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on terraform.
+- 🌱 I’m currently learning golang.
+- 📫 How to reach me: naveenb29@gmail.com
+
+
 <!--
 **naveenb29/naveenb29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
