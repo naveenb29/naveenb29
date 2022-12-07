@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on terraform.
 - 🌱 I’m currently learning golang.
-- 📫 How to reach me: naveenb29@gmail.com
 
 
 <!--
